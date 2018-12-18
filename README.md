@@ -2,6 +2,9 @@
 * Ubuntu14.04 LTS
 * Python 3.5+
 * PyTorch 0.3+
+* pandas
+* tqdm
+* cnn_finetune(https://github.com/creafz/pytorch-cnn-finetune)
 
 ### 1.使用基于ImageNet训练的nasnetalarge模型
 * 模型链接：http://data.lip6.fr/cadene/pretrainedmodels/nasnetalarge-a1897284.pth
